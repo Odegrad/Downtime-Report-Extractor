@@ -57,6 +57,5 @@ This tool is intended for internal operational workflows where report export aut
 
 Do not commit real passwords or secrets to GitHub. Keep sensitive values in local files or environment variables, and only use this tool for accounts you are authorized to access.
 
-## 📸 Screenshot
 
 
